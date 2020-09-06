@@ -51,15 +51,10 @@ Player hits Boss for 10 points of damage!
 ## Getting Help
 If you run into difficulty, you may wish to check out some of the following resources:
 
-- https://api.flutter.dev/  - The standard documentation for Flutter, all classes and methods.
 - https://dart.dev/tutorials - A series of tutorials for the Dart programming language, focusing entirely on the features of Dart.
-- https://flutter.dev/docs/reference/tutorials - A series of tutorials for the Flutter platform, focusing mainly on the widgets and API.
-- https://flutter.dev/docs/codelabs - A series of deep-dive, more comprehensive, tutorials to learn more about the Flutter platform.
-- https://flutter.dev/docs/cookbook - A set of recipes for commonly used features of Flutter.
-- https://github.com/flutter/samples/blob/master/INDEX.md - A repository containing some completed Flutter applications.
 - http://stackoverflow.com/ - A forum for asking questions about programming.  I bet you know this one already!
 
 Of course, you can always ask the TA for help!  However, learning how to find the answers out for yourself is not only more satisfying, but results in greater learning as well.
 
 ## How to Submit
-Create your flutter projects inside this folder, commit, and then push your code to this repository to submit your lab assignment.
+Save your .dart file in this folder, commit, and then push your code to this repository to submit your lab assignment.
